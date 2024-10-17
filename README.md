@@ -18,5 +18,5 @@ To try out the web demo of Twitter Sentiment Analysis, visit Demo Link. 🚀 htt
 ## Installation
 
 Clone the repository: git clone https://github.com/tanishra/Movie-Recommender-System.git Navigate
-to the project directory: cd twitter-sentiment-analysis Install dependencies: pip install -r requirements.txt 
+to the project directory: cd Movie Recommender System Install dependencies: pip install -r requirements.txt 
 Run the application: streamlit app.py 🛠️
